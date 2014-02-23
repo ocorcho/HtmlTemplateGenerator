@@ -1,0 +1,21 @@
+title=Aragopedia Ontology
+name=Test
+ontologyPrefix=aragodef
+ontologyNamespaceURI=http://opendata.aragon.es/def/Aragopedia#
+dateOfRelease= 1 Feb 2014
+thisVersion=http://opendata.aragon.es/def/Aragopedia
+latestVersion=http://opendata.aragon.es/def/Aragopedia
+previousVersion=http://opendata.aragon.es/def/Aragopedia
+revision=1.0
+authors=Oscar Corcho
+authorURL=http://www.linkedin.com/profile/view?id=158983
+authorInstitution=LocaliData;LocaliData
+contributors=Esther Minguela;Juan Carlos Ballesteros;José María Subero;David Portolés
+contributorsURL=http://www.linkedin.com/profile/view?id=223597627;http://www.linkedin.com/profile/view?id=103759275;http://www.linkedin.com/pub/jose-m%C2%AA-subero-munilla/22/1b6/ab6;http://www.linkedin.com/profile/view?id=4410652
+contributorsInstitution=LocaliData;LocaliData;Gobierno de Aragón;Idearium Consultores
+importsNames=DBpedia Ontology
+importsURLs=http://dbpedia.org/ontology/
+#extendsNames=test1; test2
+#extendsURLS=http://example.org/test1; http://example.org/test2
+license=Creative Commons Attribution 4.0 International (CC BY 4.0)
+licenseURL=http://creativecommons.org/licenses/by/4.0/
